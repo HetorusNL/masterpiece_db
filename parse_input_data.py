@@ -10,6 +10,9 @@ def parse_words(course):
     parsed_words = []
     for index, word in enumerate(words):
         split_word = word.strip().split("\t")
+        assert len(split_word) >= 2
+        assert len(split_word[0].strip()) >= 1
+        assert len(split_word[-1].strip()) >= 1
         parsed_word = {
             "id": f"{course}-{index+1}",  # 1-based index instead of 0-based
             "course": f"{course}",
