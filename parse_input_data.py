@@ -16,8 +16,8 @@ def parse_words(course):
         parsed_word = {
             "id": f"{course}-{index+1}",  # 1-based index instead of 0-based
             "course": f"{course}",
-            "dutch": split_word[0],
-            "english": split_word[-1],
+            "dutch": split_word[0].strip(),
+            "english": split_word[-1].strip(),
         }
         parsed_words.append(parsed_word)
 
