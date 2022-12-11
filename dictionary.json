@@ -19882,7 +19882,7 @@
       "id": "sentences-1227",
       "course": "sentences",
       "dutch": "Deze brug is alleen voor voetgangers",
-      "english": "This bridge is only for pedestrians"
+      "english": "This bridge is only for pedestrians or This bridge is for pedestrians only"
     },
     {
       "id": "sentences-1228",
@@ -20092,7 +20092,7 @@
       "id": "sentences-1262",
       "course": "sentences",
       "dutch": "Kunnen jullie even op de gang wachten?",
-      "english": "Can you wait in the hallway for a moment?"
+      "english": "Can you wait in the hallway for a moment? or Can you briefly wait in the hallway?"
     },
     {
       "id": "sentences-1263",
@@ -20170,7 +20170,7 @@
       "id": "sentences-1275",
       "course": "sentences",
       "dutch": "Je moet meer informatie verzamelen",
-      "english": "You must gather more information"
+      "english": "You must gather more information or You have to gather more information"
     },
     {
       "id": "sentences-1276",
@@ -20775,7 +20775,7 @@
     {
       "id": "sentences-1376",
       "course": "sentences",
-      "dutch": "Als ik hier druk doet het pijn",
+      "dutch": "Als ik hier druk, doet het pijn",
       "english": "If I press here, it hurts"
     },
     {
