@@ -13,6 +13,15 @@ def replace_unicode(lines: list[str]) -> list[str]:
     for idx in range(len(lines)):
         for _old, _new in replace_dict.items():
             lines[idx] = lines[idx].replace(_old, _new)
+
+    # test for duplicates
+    duplicates = 0
+    for line in lines:
+        if lines.count(line) != 1:
+            duplicates += 1
+            # print(f"{lines.count(line)}: {line.strip()}")
+    print(f"found {duplicates} duplicates")
+
     return lines
 
 
