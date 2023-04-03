@@ -1,10 +1,25 @@
 import json
 
 
+def replace_unicode(lines: list[str]) -> list[str]:
+    replace_dict: dict = {
+        "\u2019": "'",
+        "\u2018": "'",
+        # "\u00e9": "é",
+        # "\u00eb": "ë",
+        # "\u00ef": "ï",
+        # "\u00e8": "è",
+    }
+    for idx in range(len(lines)):
+        for _old, _new in replace_dict.items():
+            lines[idx] = lines[idx].replace(_old, _new)
+    return lines
+
+
 def parse_words(course):
     # open the raw words to parse from (multi-)tab separated file
     with open("words.tsv") as f:
-        words = f.readlines()
+        words = replace_unicode(f.readlines())
 
     # parse the words adding vocabulary dictionaries to the parsed_words list
     parsed_words = []
@@ -36,7 +51,7 @@ def parse_words(course):
 def parse_sentences(course):
     # open the raw sentences to parse from interlaced file
     with open("sentences.intl") as f:
-        sentences = f.readlines()
+        sentences = replace_unicode(f.readlines())
 
     # parse the interlaced sentences (nl \n en \n nl \n en)
     # adding to vocabulary dictionaries to the parsed_sentences list

@@ -4,14 +4,15 @@ meervoudsvormen		plurals
 meerdere			several
 werkwoord			verb
 onregelmatige werkwoorden	irregular verbs
+regulier, regelmatig		regular, regularly
+helemaal, geheel regelmatig	entirely regular
 bijwoord			adverb	
 bijvoeglijk naamwoord		adjective
 zelfstandig naamwoord		noun
 voornaamwoord		pronoun
 uitspreken			to pronounce
 voegwoord			conjunction	
-voltooid deelwoord		past participle	
-helemaal/geheel regelmatig	entirely regular
+voltooid deelwoord		past participle
 rok, hemd, jas, jurk, pak	skirt, shirt, coat, dress, suit
 grijs, bruin, wit, geel, paars	gray, brown, white, yellow, purple
 kleur, kleurrijk			color, colorful
@@ -29,24 +30,26 @@ mier				ant
 broer en zus			sibling
 broers en zussen		siblings
 tweeling			twin
-ober, serveerster		waiter, waitress
-directeur, regisseur		director
 personeel			staff
-bewaker			guard
 beroep				profession
+ober, serveerster		waiter, waitress
+ingenieur			engineer
+architect			architect
+bewaker			guard
+gids				guide
+kok				cook
+artiest, kunstenaar		artist
+student				student
+directeur, regisseur		director
 secretaris, secretaresse	secretary
 op het werk			at work
 olie				oil
 ontbijt				breakfast
 handig				convenient, useful (op verschillende manieren te gebruiken)
-nuttig/nutteloos		useful/useless
-afhankelijk			dependent
-onafhankelijk/zelfstandig	independent
-onafhankelijkheid		independence
-tegenover			opposite
-gemiddelde			average
-meerderheid			majority
-burgemeester			mayor
+onhandig			clumsy
+nuttig				useful 
+nutteloos			useless
+tevergeefs, nutteloos		in vain
 avontuur			adventure
 avonturier			adventurer
 comité				committee
@@ -55,39 +58,41 @@ iemand				somebody, someone, anybody, anyone
 iedereen			everybody, everyone, anybody, anyone 
 elk, ieder			any, each, every
 iemand anders			someone else
+anders,andere,verschillend(e)	different
+verschil				difference
+verschillende, verscheidende	various
+anders				otherwise
 niemand			nobody, no one
 iets				something 
 elk iets				anything
 alles				everything, anything
-allesbehalve			anything but
 niets				nothing
 samen				together
 ergens				somewhere
 overal				everywhere, anywhere
 nergens			nowhere
-hele, gehele			entire (geheel zoals gehele boek/wagenpark), whole (enkel object)
+hele, gehele			whole (enkel object), entire (geheel zoals gehele boek/wagenpark)
 alleen				alone (fysiek)
 eenzaam			lonely (emotioneel), lonesome
-samen				together
 dit				this
 deze				these
 dat				that
 die				those	
 wat				what
-alleen maar, enkel en alleen	only, just, merely
-net				just				
-één keer			once
-beide				both
+alleen maar, enige, alleen	only, just, merely
+net als				just like
+hij is net vertrokken		he has just left		
+ander, andere			other
+elk ander			any other
 elkaar				each other 
-elk ander			any other
-ander				other
+ander, andere			other
 een andere, nog een		another
-zulk, zo een			such
-zoiets				such a thing
 alle anderen			everybody else
-elk ander			any other
+zulke, zulk, zo’n		such, such a
+zoiets				such a thing
 echter, maar, toch		however
-in ieder geval, sowieso		anyway, in any case
+in ieder geval, sowieso		in any case, anyway
+trouwens			by the way
 hoe dan ook			anyhow	
 wat dan ook			whatever
 waar dan ook, overal waar	wherever
@@ -112,53 +117,59 @@ traditionele familie		traditional family
 godsdienstige schrijver		religious writer
 gelovig 			religious
 populair			popular
+populariteit			popularity
 bekend				familiar (bij iemand bekend), known (bij velen bekend)
 onbekend			unknown
 definitie			definition
-definitief			definite
 beslist, absoluut		definitely
 compleet			complete (zoals een puzzle)		
 volstrekt, volkomen, helemaal	completely 
-volkomen, in de ruimste mate	utterly
+volstrekt, volkomen, helemaal	utterly
 perfect, volstrekt, heel goed	perfectly
-belangrijk			important
-voornaamste			main
-hoofdzaak			main thing
-voornamelijk, hoofdzakelijk	mainly
-noodzakelijk			necessary
-per se, noodzakelijkerwijs	necessarily
 nog, toch			yet
 zelfs				even
+bijna				almost
 altijd				always
 voor altijd			forever
 ooit				ever
 nooit				never
 mooi, best			pretty
 reden				reason
-behoorlijk, redelijk		reasonable (BN), reasonably(BW), quite
-nogal				quite
-rustig, kalm, stil		calm (persoon), quiet (omgeving)
-stilte				silence (volledig stille omgeving)
+redelijk, behoorlijk		reasonable (BN), reasonably(BW), quite
+onredelijk			unreasonable, unreasonably
 liever, eerder			rather 
-nogal				rather (meer dan verwacht) quite (legt minder nadruk)
+nogal				quite (legt minder nadruk), rather (meer dan verwacht)
 liever dan, eerder dan		rather than
 dan				then, than (vergelijking met)
+rustig, kalm, stil		calm (persoon), quiet (omgeving)
+stilte				silence (volledig stille omgeving)
+patient				patient
+geduldig			patient (BN)
+het geduld			the patience (ZN)
 hier 				here
 daar, er			there
 ook				also, too, either (wordt gebruikt in negatieve zinnen)
-ongeveer			approximately
+ik ook niet			neither do I
+noch				neither, nor
 straks, later			later
-meestal, gewoonlijk		usually
-grotendeels			mostly
+gewoonlijk			usual, usually
+meestal, grotendeels		mostly
 in het algemeen		in general, generally
-makkelijk, gemakkelijk		easy
-vooral, speciaal, met name	especially	
 helder, duidelijk		clear
+helder				bright
 toren				tower
 boerderij, boer			farm, farmer
 dorp				village
 plaats, stad			town
 stad				city
+stadhuis			city hall
+hoofdstad			capital
+hoofdletters			capitalization
+plaats				place
+plek				place, spot
+woonplaats			place of residence
+stadsdeel			borough 
+district 				district
 eiland				island
 paleis				palace
 adres				address
@@ -170,60 +181,69 @@ kam				comb
 dak, wortel			roof, root
 zeep				soap
 wiel, stuur			wheel
+mens				human being
 mensen			people, humans
 menselijk			human
-mens				human being 
 mensheid			humanity
-stel, paar, koppel		couple
-paar				pair
+een paar			a pair
+stel, koppel			couple
+enkele, een paar		a couple of, a few
 bevolking, populatie		population
 slachtoffer			victim
-rollende dobbelsteen		tumbling dice
+tuimelende dobbelsteen	tumbling dice
 vlag				flag
 schaar				scissors
 jeugd				youth
 rugzak				backpack
-motor				motorcycle
-voertuig			vehicle
+krant				newspaper
 tijdschrift			magazine
+verhaal				story
 reis				trip, journey
 toerist				tourist
 geen				none
 honderd			a hundred
 som				sum
+per				per
 bibliotheek			library
 voorbeeld			example
+geval, instantie, voorbeeld	instance
+bijvoorbeeld			for example, for instance
 monster			sample
 in aanbouw			under construction
-bouw, constructie		construction
+constructive, bouw		construction
 slecht				bad	
 slechter, erger			worse
 slechtst, ergst			worst
 leed				sorrow
+droevig, bedroefd		sad
 droefheid			sadness
 eerder				previous, previously
 druk				pressure
 schat				treasure
-kostbaar, kostbare		precious (bij previous zetten)
+kostbaar, kostbare		precious 
 waardevol, waardevolle	precious
 mijn lieveling			my precious
+eer				honor
+eerlijk				honest
+eerlijkheid			honesty
+wees eerlijk			be honest
+waar				true 
+waarheid			truth
+echt, werkelijk			truly
+genoegen,welbehagen		pleasure
+gunst				favor
 sprookje			fairy tale
 antwoord, reactie		response
 probleem, kwestie		issue
 geval, zaak			case 
 materie, zaak, kwestie		matter
 oorzaak, zaak			cause
-geval, instantie, voorbeeld	instance
 ervaring			experience
 twijfel				doubt
 vergunning			permit, license
 toestemming			permission
-in vorm				in shape
 poging				attempt
 inspanning, moeite		effort
-belang				interest, importance
-interessant			interesting
-geïnteresseerd			interested
 welk				which, what
 welke				which one
 wiens, van wie			whose
@@ -247,25 +267,18 @@ augustus, september		August September
 oktober, november, december	October November December	
 echt				real
 pad				path
-geluk				joy
-geniet ervan			enjoy it
-eer				honor
-plezier				fun
-grappig				funny
-genoegen,welbehagen,plezier	pleasure
-gunst				favor
 bang				afraid, scared
-bange				frightened
+bange, geschrokken		frightened
 enge				scary
 angst				fear
 woede				anger
 vertrouwen, geloof		faith (op gevoel)
 vertrouwen			confidence (ZNW)
 zelfverzekerd, vol vertrouwen	confident (BNW)
+vertrouwelijk			confidential
 comfort				comfort
 comfortabel			comfortable
 comfortabel gevoelloos		comfortably numb (verdoofd)
-gedachtenbeheersing		thought control
 speelgoed			toys
 spel				game
 wedstrijd			contest, match
@@ -273,10 +286,11 @@ inhoud				content
 kampioenschap			championship
 sportschool			gym
 atleet				athlete
-doel				aim, purpose, goal
+doel				aim, purpose, goal, target
 doelstelling			objective
 voorwerp			object
 onderwerp			subject
+bezwaar			objection
 tekort				lack
 meer				lake
 viool, fluit			violin, flute
@@ -286,28 +300,35 @@ muziekinstrument		musical instrument
 muzieknoot			musical note
 musical				musical
 postzegel			stamp
-oog, mond, hersenen		eye, mouth, brain
 zicht				sight, vision, view
+bezienswaardigheid		sight
 zichtbaar		 	visible
 onzichtbaar			invisible
+geloofwaardig			credible
+ongelooflijk, ongeloofwaardig	incredible
 advies				advice
+apparaat			device
 legaal, wettelijk, rechtsgeldig	legal
+wettelijke kosten		legal costs
 leider				leader
 congres				congress
-de fout, de schuld		fault, blame
+de fout				the fault 
+de schuld			the blame
 fout, vergissing			mistake
-schuld(geld)			debt
+ongeluk			accident
+per ongeluk, onopzettelijk	accidental, accidentally
+geldschuld			debt
+schuldig			guilty
+onschuldig			innocent
 hoeveelheid,bedrag,aantal	amount
+nummer, aantal, getal		number
 kwaliteit			quality
 kwantiteit, hoeveelheid		quantity
-kosten				cost, costs
-lading				load
-kosten, lading			charge
-onderzoek			study, investigation, research
+kwalificatie			qualification
 de samenleving		the society
-resultaat			result
-effect				effect
-gevolg, consequentie		consequence
+resultaat, gevolg		result
+effect, gevolg			effect
+consequentie, gevolg		consequence
 volgorde			sequence
 vervolg				sequel
 gelijk				equal
@@ -323,19 +344,22 @@ wetenschappelijk		scientific
 laboratorium			laboratory
 stip				dot
 methode			method
-cyclus, kringloop		cycle
 merk				brand
+gloednieuwe			brand new
 geldeenheid, valuta		currency
 momenteel			currently, at the moment
 tegenwoordig			today
-reclame			advertising
+reclame			advertising 
+reclames			commercials
+reclame(s), advertentie(s)	ad(s)
 advertentie			advertisement
 organisatie			organization
-wettelijke kosten		legal costs
 tweetalig			bilingual
+taal				language
 taalkunde			linguistics
 geografie, aardrijkskunde	geography
 natuurkunde			physics
+fysiek				physical
 scheikunde			chemistry
 wiskunde			math, mathematics
 biologie				biology
@@ -348,11 +372,10 @@ filosofie				philosophy
 sociologie			sociology
 psychologie			psychology
 fysiotherapie			physiotherapy	
-fysiek				physical
 internationaal recht		international law
 fotografie			photography
-formule				formula
 volume				volume
+formule				formula
 diepte				depth
 lengte, duur			length
 hoogte				height
@@ -362,6 +385,7 @@ gezelschap			company
 zakenman, zakenvrouw	businessman, businesswoman
 de firma			the firm
 fabriek				factory
+fabrikant			manufacturer
 stichting			foundation
 eigenaar (ook baasje hond)	owner
 baas				boss
@@ -369,6 +393,7 @@ rekening, cheque		check (vs voor rekening), bill (Engels voor rekening)
 het kost tijd			it takes time, it costs time
 mondiaal, wereldwijd		global
 globalisering			globalization
+maat, grootte			size
 maatregel, maat, maatstaf	measure
 meeteenheid, afmeting		measure
 prijs				price (geld dat je betaald bij aankoop)
@@ -383,32 +408,52 @@ verklaring			explanation
 grote schoonheid		great beauty
 de aanval			the attack
 slag, strijd			battle
-uiterlijk, kijk, stijl		look (hoe je er altijd uitziet)
+uiterlijk, stijl			look (hoe je er altijd uitziet)
 uiterlijk				appearance (hoe je er nu uitziet)
 identiteit			identity
-andere, verschillend(e)		different
-verschil				difference
 kracht				force, strength
 kracht, macht, vermogen	power
 voordeel			advantage, benefit
 nadeel				disadvantage
 uitdrukking, uiting		expression
-belang, waarde			importance
 persoonlijkheid			personality
+eigenschap			quality, characteristic, trait (persoonseigenschap)
 karakter			character	
 hoi				hi 
 zin, zinnen			sentence, sentences, phrase, phrases	
-beweging			motion, move, movement				
-degradatie			demotion
 gemeenschap			community
-gemeenschappelijk		common
+gewoon, gemeenschappelijk	common
 veel voorkomende zinnen	common phrases
 oké				okay	
-goedendag			good day
-goed gedaan			nicely done
-goed werk			nice job		
-advertentie(s)			ad(s)	
+goedemorgen			good morning
+goed gedaan			well done
+goed werk			good job
 pardon				excuse me
+noemen, roepen, bellen	to call
+telefoontje, telefoongesprek	call
+missen				to miss
+creëren				to create
+schepsel			creature
+betalen				to pay
+komen				to come
+gebeuren			to happen
+proberen			to try
+steunen			to support	
+wassen 			to wash
+geven				to give
+leren				to learn
+tellen, rekenen			to count
+aanraken			to touch
+vangen				to catch
+lezen				to read
+ongelezen			unread
+draaien, afslaan		to turn
+ga naar pagina			turn to page
+stappen			to step
+stap				step
+branden			to burn
+aanraken			to touch
+concertreren			to focus
 overslaan			to skip
 onderbreken			to interrupt
 onderbreking			interruption
@@ -422,20 +467,22 @@ heroverwegen			to reconsider
 toevoegen			to add
 toevoeging			addition
 bewerken			to edit
-toevoegen, meetellen		to include
+meerekenen, meetellen	to include
 rusten				to rest
 praten, spreken		to talk, to speak
 vertellen, zeggen		to tell, to say
 nemen				to take
 uittrekken			to take off
 reizen				to travel
+tonen, laten 			to show
+voorstelling			show (onder to show zetten)
 verschijnen			to appear, to show up
 verdwijnen			to disappear, to vanish
 reserveren, boeken		to reserve
 aankondigen			to announce
 informeren			to inform
-veranderen, verwisselen	to change
 ontwikkelen			to develop
+ontwikkeling			development
 verlangen			to desire
 aankomen, arriveren		to arrive
 open laten			to leave open
@@ -444,16 +491,17 @@ omslag, bedekking		cover
 ontdekken			to discover
 actie ondernemen, handelen	to take action
 herkennen			to recognize
-voornemen, van plan zijn	to propose
-zich voornemen		proposing
+voorstellen, van plan zijn	to propose, proposing
 voorstel			proposal
 veronderstellen/ervan uitgaan	to suppose (gebaseerd op eigen gegevens)                  
 veronderstellen/ervan uitgaan	to assume (deels gebaseerd op feiten)
 veronderstellen	/ervan uitgaan	to presume (gebaseerd op feiten)
 aanname			assumption
-bewegen, verplaatsen		to move
+raden				to guess
+gast				guest
+veronderstellen, denken	to suppose, to think, to guess (als je helemaal geen info hebt)
 om door te gaan naar		to advance to
-bevorderen			advance
+bevorderen			to advance
 trekken				to pull
 duwen				to push
 drukken			to press
@@ -463,41 +511,60 @@ dragen				to carry, to wear
 optillen, tillen			to lift
 voltooien, afmaken		to complete
 interesseren			to interest
+belang				interest
+belang, waarde			importance
+interessant			interesting
+geïnteresseerd			interested
 noemen, vermelden		to mention
 melding, vermelding		mention
+bellen, noemen			to call
+genaamd			called
+telefoongesprek		call
 afhangen			to depend
+afhankelijk			dependent
+afhankelijkheid			dependence
+onafhankelijk, zelfstandig	independent
+onafhankelijkheid		independence
 eisen, vragen naar		to demand
 vereisen			to require
 bevelen	, bestellen		to order
-bevelen				to command		
+bevel, bestelling		order
+bevelen				to command
 aanbevelen, aanraden		to recommend
-aanraden			to advise
+adviseren, aanraden		to advise
 aanbeveling			recommendation
 bepalen			to determine
+studeren, bestuderen		to study
 bekijken, onderzoeken		to examine (observeren/inspecteren), to research (ijverig zoeken)
+onderzoek			study, investigation, research
 voorspellen			to predict, to forecast
 voorspelbaar			predictable
 onvoorspelbaar			unpredictable
-voorspelling			prediction
+voorspelling			prediction, forecast
+weer				weather
+weersvoorspelling		weather forecast
+weerbericht			weather report
 aanmoedigen			to encourage
 ontmoedigen			to discourage
 moed				courage
+grind, gruis			grit
+ware moed			true grit
 aanduiden, duiden op		to denote
 observeren			to observe
 klinken				to sound
 (over)blijven, resteren		to remain
-stoffelijk overschot		remains
+overblijfsel			remains
 zich verontschuldigen		to apologize
+beleefd				polite
 beïnvloeden			to affect
-bestaan			to exist (bestaan, zijn), to consist (toneelstuk bestaat uit 2 delen)
-het bestaan			the existence
 uitleggen, verklaren		to explain
 beschrijven			to describe
-omschrijven			to define
+definiëren, omschrijven	to define
 abonneren			to subscribe
-vermijden			to avoid
-veroorloven			to afford
+inspannen			to make an effort
 inspanning			effort
+veroorloven			to afford
+vermijden			to avoid
 overgeven			to surrender
 overgave			surrender
 omringen			to surround
@@ -510,18 +577,19 @@ vernietigen, verwoesten	to destroy
 vernietiging, verwoesting	destruction
 vernietigbaar			destructible
 onverwoestbaar		indestructible
-zich verzetten tegen		to resist
-weerstand bieden		to resist
-het verzet, de weerstand	the resistance
-lachen				to laugh
 vieren				to celebrate
 volgen				to track, to follow
 doen alsof			to pretend
 aansteken			to ignite
 kwetsen, pijn doen		to hurt
-spelen				to play	
+spelen				to play
 knijpen				to squeeze
-uitsterven			to extinct
+niezen				to sneeze
+lachen				to laugh
+lachwekkend			laughable
+glimlachen			to smile
+huilen				to cry
+hoesten			to cough	
 zuigen				to suck
 lasting vallen			to bother
 storen				to disturb
@@ -534,57 +602,81 @@ gerommel			rumble
 nederig maken			to humble
 nederig				humble
 vernederen			to humiliate
+beledigen			to insult
+raadplegen			to consult
+verlichten, opluchten		to relieve 
+opgelucht			relieved
+verlichten			to illuminate
+introduceren			to introduce
 voorstellen, presenteren	to introduce
 presenteren, voorleggen	to present
+presteren, uitvoeren, optreden	to perform 
+prestatie,uitvoering,optreden	performance
+horen				to hear
 behoren			to belong	
 verhogen,verlengen 		to increase
 vermeerderen, toenemen	to increase
-verminderen, afnemen		to decrease, to reduce
+verlagen			to decrease
+verminderen, afnemen		to decrease
+reduceren, verminderen	to reduce
 vermeerdering, toename	increase
 vermindering, afname		decrease
 invetten			to grease
 vet, smeer			grease
-gesmeerde bliksem		grease lightning
+gesmeerde bliksem		greased lightning
 vestigen,oprichten,vaststellen	to establish
 verbeteren			to improve
-beter worden, terug krijgen	to recover
-herstel, herwinnen		recovery
-terugkrijgen	 		recovery
+verbetering			improvement
+herstellen, terug krijgen	to recover
+het herstel, het terugkrijgen	the recovery
+terugkrijgen, terugkrijging	recovery
+krijgen				to gain 
+terug krijgen, herkrijgen	to regain
+verdienen			to earn (wel arbeid), to gain (geen arbeid), to deserve	
 goedkeuren			to approve
 goedgekeurd			approved
 goedkeuring			approval
 beschuldigen			to accuse
 vergelijken			to compare
-vervangen			to replace, to substitute
+vervangen			to substitute
+vervangen, terugzetten	to replace
 vervanger			substitute
 plaatsvervanger		deputy
 vervanging			substitution
-terugzetten			to replace
 aandacht hebben, opletten	to pay attention
 de aandacht			the attention
 bewijzen			to prove
 bewijs				evidence
 bereiken			to achieve, to reach
 van belang zijn			to matter
+logisch zijn, zinvol zijn		to make sense
 voorkomen			to prevent
-opladen, in rekening brengen	to charge
 schuld geven			to blame
-koken				to boil
+koken				to cook, to boil
 bijten				to bite
 roeren				to stir
+bieden, aanbieden		to offer
 opofferen			to sacrifice
-snijden/hakken			to cut/to chop
+rechtvaardigen			to justify
+rechtvaardigheid		justice
+zich afvragen			to wonder
+bewonderen			to admire
+snijden, hakken		to cut, to chop
 afwassen			to do the dishes
 bakken				to bake, to fry
 braden				to fry
-leunen				to lean
 lesgeven			to teach
+leraar				teacher
 opvoeden			to raise
+opvoeding			upbringing
 slagen, passeren, voorbijgaan	to pass
 pas, doorgang			pass
 het verleden			the past
+de toekomst			the future
 voorbij				past
 falen, zakken			to fail
+gebruiken			to use
+wennen aan			to get used to
 vroeger, gewend om		used to
 we waren vroeger		we used to be
 vroeger				back in the days
@@ -598,8 +690,19 @@ vervagen			to fade, fade away
 vervaagd			faded
 verliezen			to lose
 kiezen				to choose, to pick
+meenemen			to take along
+wegnemen, weghalen		to take away
+afhaal				take away
+ophalen			to pick up
 toepassen, solliciteren	 	to apply
 aanvragen, gelden		to apply
+sollicitatie			apply
+aanmelding, toepassing	application
+aanmelding, ingang		entry
+toegang			access	
+indienen			to submit
+verzoek, aanvraag		request
+aanvraagformulier		application
 meten				to measure
 analyseren			to analyze
 analyse				analysis
@@ -610,8 +713,10 @@ lukken, aankunnen		to manage
 leiden				to lead
 passen				to fit, to try on
 kunnen				to can, to be able to
+toestaan, toelaten		to allow
+toegestaan			allowed
 mogen				to may, to be allowed to 
-moeten				to must, to need, have to, to shall
+moeten				to must, to need, to have, to shall
 willen				to want
 zullen				to will, to shall
 hoeven				to need
@@ -619,40 +724,47 @@ zou willen			would
 zou kunnen			could
 zou moeten			should
 voelen				to feel, felt, felt
-vallen				to fall, fell, fallen 
+geeft mij een gevoel van	make me feel
+vallen				to fall, fell, fallen
+is gevallen			has fallen
+omvallen			to fall over
+is omgevallen			has fallen over
+laten vallen			to drop
+terug vallen			to drop back
+tegenslag			setback
 donderen			to thunder
 vriezen				to freeze
 winderig			windy
 blazen				to blow
 spellen				to spel
 vertalen			to translate
-betekenen, bedoelen		to mean
-laten vallen			to drop
-terug vallen			to drop back
+menen, betekenen, bedoelen	to mean
 langzamer gaan, vertragen	to slow down
 vertragen			to delay
+vertraging, vertraagd(e)	delay (zelfstandig naamwoord), delayed (BN)
 blijven				to stay
 staan 				to stand
 houden, bewaren, blijven	to keep
 vasthouden			to hold
+tegenhouden			to hold back
+de jaren tegenhouden		holding back the years
 krijgen, komen, worden	to get
 snappen, begrijpen		to get
-krijgen				to gain 
-terug krijgen, herkrijgen	to regain
-verdienen			to earn (wel arbeid), to gain (geen arbeid), to deserve	
-worden				to become, turn into
+worden				to become, to turn into
 blijken				to turn out
+er achter komen		to find out
+te weten komen		to find out
+uitvinden			to invent
+uitnodigen			to invite
+uitnodiging			invitation
 blijkbaar			apparently, evidently
 schijnbaar			seemingly
 opslaan, bewaren		to store
-verlichten, opluchten		to relieve
-opgelucht			relieved
 verzamelen			to gather (informatie verzamelen), to collect (verzameling munten)
 verspillen			to waste
 kopen				to buy
 aankoop			purchase
 verkopen 			to sell	
-fietsen				to bike, to cycle
 leggen, zetten			to lay, to put
 neerleggen			lay down 
 liggen				to lie, lay, lain
@@ -666,37 +778,36 @@ stinkende			smelly
 stinken				to stink
 grijpen				to grab
 verslaan			to beat, to defeat (formeler, bv. defeats in war) 	
-zoeken				to seek (item zoeken), to search (plaats waarin je zoekt), look for
+zoeken				to seek (item zoeken), to search (plaats waarin je zoekt), to look for
 scheiden			to divorce (echtscheiding), to separate (van tafel en bed)
+gescheiden 			divorced, separated
 afval scheiden			separating waste
+toewijden			to devote (familie en geliefden), to dedicate (werk, enz)
+toegewijd			devoted, dedicated
 wanhopig			desperate
 wanhopig op zoek		desperate seeking
 trouwen			to marry
 vertrouwen			to trust
 wantrouwen			to mistrust
-handelen, ruilen		to trade 
+handelen, ruilen		to trade
+leunen				to lean
 lenen				to lend (aan ander lenen), to borrow (van ander lenen)
+lening				loan
 oversteken			to cross
 tegenkomen			to run into, to encounter, to come across (geen persoon maar ding)
 ontmoeting			encounter (ongeplande, onverwachte ontmoeting), meeting
 vergadering			meeting
 afspreken, overeenkomen	to agree on
 eens zijn met			to agree with
-vasthouden			to hold
-meedoen, deelnemen		to participate, join
+meedoen, deelnemen		to participate, to join
 laten				to let
 laten gaan			to let go
 loslaten				to let go of
-meenemen			to take along
 ontmoeten			to meet
-toestaan, toelaten		to allow
-toegestaan			allowed
 vastzitten			to be stuck
 verraden			to betray
 spuiten				to squirt
-storen				to disturb	
 samenwerken			to cooperate (hetzelfde doel), to collaborate (doel ander)
-ophalen			to pick up
 geloven				to believe
 beloven				to promise
 belofte				promise
@@ -708,44 +819,63 @@ ontspannen			to relax
 stelen				to steal
 plegen				to commit
 repareren			to repair
+gerepareerd			repaired
+oplossen, maken, repareren	to fix (onder repareren zetten)
 in elkaar zetten, monteren	to assemble
 opwinden			to excite
+opgewonden			excited
+opwinding			excitement
 bang maken, schrik aanjagen	to frighten
 fascineren			to fascinate
+gefascineerd			fascinated
+fascinerend, fascinerende	fascinating
 uitputten			to exhaust
 motiveren			to motivate
 beu zijn			to be fed up
+verpesten			to screw up
 stressen			to stress
-beledigen			to insult
-raadplegen			to consult
-rechtvaardigen			to justify
+gestrest			stressed, stressed out
 bekennen			to confess
+bekentenis			confession
+passie				passion
+medelijden			compassion
+geen genade			no mercy
+ik heb medelijden met		I feel sorry for
+ontkennen, ontkenning		to deny, denial
 leven, wonen			to live
 negeren			to ignore
 opschrijven			to write down
-invullen				to fill in
-opvullen			to fill up
 vullen				to fill
 opnieuw vullen			to refill
+invullen				to fill in
+opvullen			to fill up
 bidden				to pray
 luisteren			to listen
 fluisteren			to whisper
+zorgeloos gefluister		careless whisper
 fluiten				to whistle
 vechten			to fight
-ontkennen, ontkenning		to deny, denial
-teruggeven, terugkomen	to return
-terugkeren			to return
+teruggeven			to return
+terugkeren, terugkomen	to return
 antwoorden			to answer
 antwoorden, reageren		to respond
-Irriteren			to irritate
+irriteren			to irritate
+geïrriteerd			irritated
 uitdagen			to challenge
 zwijgen				to shut up
 wijzen				to point
+refereren, verwijzen		to refer
+referentie, verwijzing		reference
+scheidsrechter			referee
+voorkeur			preference
 oppassen			to beware, to watch out
 bezorgd zijn			to worry, to be concerned
-besluiten			to decide
+bezorgd			worried (zorgen maken), concerned (bezorgdheid tonen)
+besluiten, beslissen		to decide
+besluit, beslissing		decision
 begrijpen			to understand
 verkeerd begrijpen		to misunderstand
+begrepen			copy that
 vertrekken			to leave, to depart
 varen, zeilen			to sail
 overtuigen			to convince
@@ -755,6 +885,7 @@ onderscheiden			to distinguish
 haasten			to rush, to hurry
 stil worden			to hush
 verpletteren			to crush
+hinderen			to embarrass
 in verlegenheid brengen	to embarrass
 uitwissen			to erase
 gum				eraser
@@ -763,49 +894,51 @@ naderende komeet		approaching comet
 scheren				to shave
 delen				to share
 haten				to hate
-sturen				to send
 beoordelen			to judge
 veroordelen			to condemn
 accepteren			to accept
 acceptatie			acceptance
-ruzie maken			to argue
 vertonen, weergeven		to display
-scherm, beeldscherm		display, screen (screen is the glass part of the display) 
+scherm				display, screen (screen is the glass part of the display) 
+beeldscherm			screen
 vliegen				to fly
 knuffelen			to hug
-tekenen			to draw, to sign (handtekening=signature zetten)
+tekenen			to draw, to sign
+handtekening			signature
 schilderen			to paint
-ontspannen			to relax
 klagen				to complain
-verpesten			to screw up
 bedriegen			to cheat
 schreeuwen			to shout, to yell
 gillen				to scream	
 wandelen			to walk, to hike
 liften				to hitchhike
+verbergen			to hide
 parkeren			to park
 ontwerpen			to design
 bezoeken			to visit
-toewijden			to devote (familie en geliefden), to dedicate (werk, enz)
-toegewijd			devoted, dedicated
 gooien				to throw
+gooien, werpen			to pitch
+helling, standplaats		pitch
 scoren				to score
 schoppen			to kick
 sporten	, oefenen		to exercise
 staken				to strike
-niezen				to sneeze
-hoesten			to cough
 sterven				to die
+uitsterven			to extinct
 bloeden			to bleed
 genezen			to cure (lichamelijk), to heal (geestelijk)
 lijden				to suffer
-verbergen			to hide
 uitvoeren			to conduct
+verheugen			to rejoice 
+uitkijken naar			to look forward to
 stromen			to flow
 stroom				stream
 drijven				to drift, to float
+roeien				to row
+rij				row
 rollen				to roll
 leveren				to deliver
+zenden, sturen			to send
 verzenden			to ship
 organiseren			to organize
 verbeelden, zich voorstellen	to imagine
@@ -816,57 +949,75 @@ ontvangen			to receive
 springen			to jump
 groeien				to grow
 poetsen			to brush
-uitvinden			to invent
-uitnodigen			to invite
-verwachten			to expect
 veroorzaken			to cause
-verwijderen			to remove
-oplossen			to solve, to resolve
+oorzaak, zaak			cause
+belangrijk			important
+voornaamste			main
+hoofdzaak			main thing
+voornamelijk, hoofdzakelijk	mainly
+noodzakelijk, nodig		necessary
+noodzakelijk, nodig, per se	necessarily
+noodzaak, noodzakelijkheid	necessity
+oplossen			to solve
+betrekken, verwikkelen		to involve
+bestaan			to exist (bestaan, zijn), to consist (toneelstuk bestaat uit 2 delen)
+het bestaan			the existence
+zich verzetten tegen		to resist
+weerstand bieden		to resist
+het verzet, de weerstand	the resistance
+weerstaanbaar			resistible
+onweerstaanbaar		irresistible
 in opstand komen		to revolt 
 opstand			revolt, insurrection
 opstanding			resurrection
 revolutie			revolution
-betrekken, verwikkelen		to involve
-(om)draaien, (om)wentelen	to revolve
+om eigen as draaien		to revolve
 draaien				to turn, to orbit (om de maan)
+baan				orbit
 twijfelen			to doubt, to hesitate
 verwarren			to confuse
 verward zijn			to be confused
 verwarring, verwardheid	confusion
 verwarrend			confusing
 weigeren			to refuse
-afwijzen			to reject
+afwijzen			to reject, to dismiss (reject gebruik je als je weigert te accepteren)
 scheuren			to tear
-interesseren			to interest
-raden				to guess
-gast				guest
 zich vergissen			to be mistaken
 suggereren			to suggest
+opstaan			to get up
 aankleden			to get dressed
-zich afvragen			to wonder
 vervelen			to bore
 zich vervelen			to be bored
-omvallen			to fall over
-verrassen, verbazen		to surprise
-zich verrassen/zich verbazen	surprised
+saai				boring
 ergeren				to annoy
 zich ergeren aan		to be annoyed by
+vervelende			annoying
+gewoonte			habit
+verrassen, verbazen		to surprise
+verrast zijn, verbaasd zijn	to be surprised
+verrassing			surprise
+verrassend nieuws		surprising news
 zich schamen			to be ashamed	
 schaamte			shame
-zich bevinden, gelegen zijn	to be located
+schande			shame, disgrace
+schandalig			disgraceful
 lokaliseren			to locate
-verheugen			to rejoice 
-uitkijken naar			to look forward to
+zich bevinden, gelegen zijn	to be located
 gedragen			to behave
 gedrag				behavior
 houding			attitude
 boodschappen doen		to buy groceries
 ruzie maken			to argue
 ruzie				disagreement, quarrel
+gevecht			fight
+verwachten			to expect
+verwacht, onverwacht		expected, unexpected			
+verwachting			expectation
 uitzonderen			to except
-behalve				except
+behalve				except for
+alles behalve			anything but
 uitzondering			exception
-uitzonderlijke, bijzondere	exceptional
+uitzonderlijk(e), bijzonder(e)	exceptional
 gewoon, normaal		ordinary
 buitengewoon			extraordinary
 bijzonder			particular
@@ -879,40 +1030,52 @@ naleven				to comply
 naleving			compliance
 produceren			to produce
 geproduceerd			vintage
-ontploffen			to explode
-ontploffing 			explosion, blast
-presteren, uitvoeren, optreden	to perform 
-uitvoering, optreden		performance
+exploderen, ontploffen		to explode
+explosie, ontploffing		explosion, blast
 overtreden			to trespass
 overtreding			trespass
 verboden toegang		no trespassing
+niet betreden			no trespassing
+verbieden			to forbid, to ban
+verboden			forbidden, banned
+breken				to break
+als je de wet overtreedt	if you break the law
 ademen			to breathe
 adem				breath
 naar adem snakken		to gasp, gasping for breath
 hijgen (na inspanning)		to pant, panting
-moedig, dapper		brave
 moed 				courage
+moedig, dapper		brave
 trots				proud
 vermoorden			to murder, to assassinate, to kill
 moordenaar			murderer, assassin, killer
 verschuldigd zijn		to owe
-bezitten			to own
+bezitten			to own (absoluut bezit), to possess (onder je hebben)
+bezit, bezitting			possession
 stofzuigen			to vacuuming
 achtervolgen, nastreven	to pursuit
 achtervolging, het streven	pursuit
-herinneren			to remember, to remind
+onthouden, herinneren		to remember
+herinneren			to remind
 herinnering			memory, reminder
+geheugen			memory
 smeken				to beg
+wedden				to bet
 zweten				to sweat
 overleven			to survive
 geven om, zorgen		to care
 ik geef om jou			I care about you
-doorgaan			to proceed
+doorgaan			to proceed, to continue
 voorafgaan			to precede
 wordt voorafgegaan		is preceded	
 begraven			to bury
 koesteren			to cherish
 vermaken			to entertain
+opladen, in rekening brengen	to charge
+kosten, lading			charge
+kosten				cost, costs
+lading				load
+de leiding hebben		to be in charge
 aanvallen			to attack, to charge
 aanval				attack, charge
 ten strijde trekken		to charge into battle
@@ -932,35 +1095,42 @@ vergelden			to retaliate
 vergelding			retaliation
 wraak nemen			to take revenge	
 wraak, revanche		revenge
-bezitten			to possess
-bezit				possession
 uitlokken			to provoke
 imponeren, indruk maken op	to impress
 indrukwekkend			impressive
 onder de indruk		impressed
-beginnen			to start, to begin
+beginnen			to begin, to start
 starten				to start
 wensen				to wish
-lijken				to seem
+kijken				to look, to watch
+ik hou je in de gaten		I keep an eye on you, I am watching you
+lijken				to look, to seem
+lijken op			to look like
 opvrolijken			to cheer
-verwijzen			to refer
-verwijzing			to reference
-scheidsrechter			referee
-voorkeur			preference
 onzin praten			to haver
-kletsen				to chatter
+kletsen				to chat, to chatter (nutteloos kletsen)
 grappen maken		to joke
 grap				joke
-invloed hebben, beïnvloeden	to influence
+beïnvloeden, invloed hebben	to influence
 invloed				influence
 beïnvloeder			influencer
-vloeiend			fluent
-verplaatsen			to shift
-verschuiving, verandering	shift
+vloeiend			fluent (vloeiend de taal spreken)
+vloeibaar			liquid
+bewegen, verplaatsen		to move
+beweging			motion, move, movement
+verwijderen			to remove
+degradatie			demotion (lagere rang), relegation (voetbal)
+verplaatsen, verschuiven	to shift (klein stukje verplaatsen dus minder ver dan to move)
+verplaatsing, verschuiving	shift
 nachtdienst, nachtploeg	night shift
+veranderen, verwisselen	to change
+kans				chance, opportunity
+verandering			change
+oplossing			solution
 aardverschuiving		landslide
 omwisselen, omschakelen	to switch
-omwisseling, schakelaar	switch
+omwisseling, omschakeling	switch
+schakelaar			switch
 omdraaien, omzetten		to flip
 vegen				to swipe, to sweep (bezem)
 erop staan			to insist
@@ -970,38 +1140,66 @@ verbouwing			remodeling
 (fijn)stampen			to mash
 aardappelpuree			mashed potatoes
 stoppen			to stop, to quit
+ontslaan, wegzenden		to dismiss
+afwijzen, afdoen		to dismiss
 ontslag nemen			to quit, to resign
 ontslag krijgen			to fire
 ontslagen zijn			to be fired
 ontslag				dismissal, resignation
-gooien, werpen			to pitch
-helling, standplaats		pitch
 beëindigen			to terminate
-dubbelzinnig			ambiguous
-ambitie				ambition
-degradatie			relegation
-bovendien, verder		furthermore
-vertraging			delay (zelfstandig naamwoord), delayed (BN)
+martelen			to torture
+marteling			torture
+tegenspreken			to contradict
+plat maken			to flatten
+bevestigen			to confirm
+bevestiging			confirmation
+annuleren			to cancel
+geannuleerd			canceled (USA), cancelled (UK)
+geannuleerde vlucht		canceled flight	
+annulering			cancellation
+componeren, samenstellen	to compose
+samengesteld(e)		composing (BN)
+montage			composing (ZN)
+componist			composer
+kalmte				composure
+behandelen			to treat
+behandeling			treatment
+afspraak			appointment
+teleurstelling			disappointment			
+teleurgesteld			disappointed
+bedreigen			to threaten
+geweld				violence
+bedreiging			threat
+draad				thread 
+sliert, snaar			string
+veter				lace
+koord				cord
+misdaad			crime
+schitterend			splendid
 geweldig			awesome, marvelous
-fantastisch			fantastic
-fascinerend, fascinerende	fascinating
 geweldig			terrific (of great size, amount of intensity) 
 verschrikkelijk, ontzettend	terrific (of great size, amount of intensity) 
 vreselijk			terrible
 doodsbang			terrified
 afschuwelijk			awful, horrible
 walgelijk, onsmakelijk		disgusting
+dubbelzinnig			ambiguous
+ambitie				ambition
 belachelijk			ridiculous
-lachwekkend			laughable
 verbazingwekkend		amazing (gevoel van verrassing)
+overweldigend			overwhelming
+fantastisch			fantastic
 uitstekend 			excellent (hoge kwaliteit)
 lekker, smaakvol		tasty
 smaak				taste(5 basissmaken in mond),flavor (combinatie geur, smaak, enz)
 pittig				spicy
+hartig				savory
+zoet				sweet
+zuur				sour
+bitter				bitter
 geur, reuk			smell
 verrukkelijk			delicious
 vies, smerig			dirty, filthy 
-goor				gross 
 lelijk				ugly	
 banaan				banana
 tomaten			tomatoes
@@ -1009,13 +1207,46 @@ groenten			vegetables
 peper				pepper
 honger				hunger
 hongerig			hungry
-eerste				first
+boom, drie, gratis		tree, three, free
+klok				clock
+uur				hour
+twee uur			two hours
+zes uur				six o’clock
+tijd				time
+ochtend			morning
+middag				afternoon
+avond				evening, night
+nacht				night
+vandaag			today
+vanmorgen			this morning
+vanmiddag			this afternoon
+vanavond			this evening, tonight	
+vannacht			tonight
+gisteren			yesterday
+eergisteren			the day before yesterday
+gistermorgen			yesterday morning
+gistermiddag			yesterday afternoon
+gisteravond			yesterday evening, last night
+afgelopen nacht		last night
+morgen				tomorrow
+morgenvroeg			tomorrow morning
+morgenmiddag			tomorrow afternoon
+morgenavond			tomorrow evening, tomorrow night
+morgennacht			tomorrow night
+overdag			during the day, in the daytime (kunnen beiden gebruikt worden)
+middernacht			midnight
+twaalf uur			noon
+kwart, kwartier			quarter
+eerste, tweede			first, second
+derde, vierde			third, fourth 
+eens, één keer			once
+twee keer, drie keer		twice, three times
+beide				both
 dorst				thirst	
 dorstig				thirsty
 gratis proefperiode		free trial
 gevoel van droogheid		sensation of dryness
-keel				throat
-nek				neck
+links en rechts			left and right
 verlangen naar vloeistoffen	craving for liquids
 kat				cat		
 koe				cow
@@ -1028,12 +1259,16 @@ muizen				mice
 schaap, schapen		sheep
 goedkoop			cheap	
 duur				expensive
+uitgave, uitgaven		expense, expenses
 duur				duration
 hert				deer
 lieve, beste			dear
+beer				bear
 varken				pig
 gans				goose
 spook				ghost
+schildpad			turtle
+spin				spider
 uil				owl
 hoorn				horn
 neushoorn			rhino, rhinoceros 
@@ -1042,31 +1277,36 @@ kleinhandel			retail
 handel				trade
 beurs				stock market
 uitdaging			challenge
-edelsteen			gem(stone)	
+edelsteen			gemstone	
 vaardigheid			skill
 sokken				socks
 trui				sweater
 klomp				wooden shoe
 klompen			clogs
 ondergoed			underwear
-bliksem				lightning
 licht, lichte			light
 zwaar, zware			heavy
 klein				small, little
 groot				large, big, great
+breed				wide (fysiek), broad (figuurlijk)
+plat				flat
+smal, nauw			narrow
 kort				short
+even				briefly
 lang				long, tall
 hoog				high
 laag				low
 vaak				often (lopende periode), frequently (bepaalde periode)
-regelmatig			regularly
-spoedig, vroeg			soon, early (eerder dan gewoonlijk)
+spoedig				soon
+vroeg				early
 zwak				weak
 sterk				strong
 zacht				soft
 hard				hard	
-makkelijk			easy
+makkelijk, gemakkelijk		easy
 moeilijk			difficult, hard
+moeilijkheid, moeite		difficulty
+probleem			problem
 moeilijker			harder
 moeilijkste			hardest
 nauwelijks			hardly (met moeite te bereiken), barely (t.o.v. het geheel)
@@ -1077,46 +1317,43 @@ minder				less (milk/ontelbaar), fewer (men/telbaar)
 veel				a lot of, many, much
 weinig				few, little
 meer dan			for over, more than (vaak gevolgd door getal)
-vers				fresh
-zin(tuig), gevoel, betekenis	sense
-proces 				trial
+vers, fris			fresh
 lichtelijk			slightly
-aangenaam			pleasant
 men				one, they
-verschillende, verscheidende	various
-alle, hele, helemaal, allemaal	all	
+alle, hele, helemaal, allemaal	all
+soort				kind
 allerlei				all kinds of
-enkele, een paar		a couple of, a few
-enige, alleen			only
 enkel				single
 van haar			hers
 van hem			his
 mevrouw			madame, Mrs.
 dame 				lady
-meneer				Sir, Mister, Mr.
+meneer				Mister, Sir, Mr.
 verwant aan			related to
 familie, gezin			family
+dier				animal
 huisdier			pet
 misschien			maybe, might be, perhaps
 bij ons				with us
 voor, voordat			before
-onder				under, beneath/ underneath (covered), below (same building, etc)
-boven				above, upstairs
-omlaag, naar beneden		down, downwards
-omhoog, naar boven		up, upwards
-beneden			downstairs
-bodem, onderkant		bottom
 binnen				inside, within
 binnen een week		within a week
 buiten				outside
 voor				in front of
 achter				behind
+recht				straight
+kromme, gebogen		curved
+homo, hetero			gay, straight
+meteen, onmiddellijk, direct	immediately, right away, straightaway
 rechtdoor			straight ahead
 vooruit				forward, ahead
 achteruit			backward (US), backwards (UK)
+in de richting van		towards
 opzij				aside
-daarna				afterwards
-daardoor, daarom		therefore
+na				after
+achteraf, daarna		afterwards
+daardoor			therefore
+daarom				that is why
 ondanks			despite
 volgens				according to
 in plaats van			instead of, rather than
@@ -1128,33 +1365,42 @@ onwaarschijnlijk		unlikely
 in tegenstelling tot		unlike
 leuk vinden			to like
 zoals, alsof			like
-of				or, whether (wordt gebruikt bij keuze of alternatief)	
 alsof				as if
-tot, totdat			until
+of				or, whether (wordt gebruikt bij keuze of alternatief)	
+tot, totdat, tot en met		until
 tenzij				unless
+voorbij				past
 voorbij, verder dan		beyond
-midden op, midden in		in the middle
+bovendien, verder		furthermore
+in het midden			in the middle
 dankzij				thanks to
 vanwege			because of
 sinds				since
 overheen, dwars over		across
 aan de overkant		across
+overkant, andere kant		other side
+aan de andere kant		on the other side, on the other hand
 tegenover			across from
+tegenovergesteld (e)		opposite
+ongeveer			approximately
+gemiddelde			average
+meerderheid			majority
+burgemeester			mayor
 vanaf vandaag			from today on, starting today
-tot en met			to, up to and including	
+tot en met			to, up to and including, until	
 dicht bij, vlak bij		close to, near
-naast				beside, next to
+naast				next to, beside
 tussen				between
-tussen in			in between	
+tussen in			in between
+langzaam			slow, slowly	
 snel				fast (use by speed), quick, quickly (both use by time)
+rond, ronde			round
 om, rond, rondom		around
 rotonde				roundabout
-voorzichtig, zorgvuldig		carefull, carefully
+voorzichtig, zorgvuldig		careful, carefully
 onvoorzichtig, onzorgvuldig	careless
-genaamd			called
 nul				zero
-laatste				last
-hoewel, ondanks dat		although, though, even though (geeft meer nadruk)
+hoewel				though, even though (geeft meer nadruk)
 beroemd			famous
 beroemdheid			celebrity
 vieren				to celebrate
@@ -1167,19 +1413,16 @@ geluid				sound (wanted), noise (unwanted)
 stem				voice, vote
 goed				good, well, correct, correctly
 verkeerd			wrong, incorrect, incorrectly
-opens, ineens, plotseling	all of a sudden, suddenly
-plotselinge dood		sudden 
-meteen, onmiddellijk, direct	immediately, right away, straightaway
-plezierig, aangenaam, prettig	enjoyable
+opeens, ineens, plotseling	all of a sudden, suddenly
+plotselinge dood		sudden death
 omstandigheid			circumstance
 omstandigheden 		circumstances
 situatie				situation
 klemtoon, nadruk		emphasis
-terwijl				while, whereas, as 
-beleefd				polite
-hoofdletters			capitalization	
+terwijl				while, as 
 dief				thief
-in principe			basicly	
+in feite, in principe, in wezen	basically
+fundamenteel, in de basis	basically	
 parfum				perfume
 potlood				pencil
 werkgever			employer	
@@ -1187,7 +1430,7 @@ werknemer			employee
 arbeider			worker
 piloot				pilot
 slager				butcher
-slagerij				butcher shop, butchery
+slagerij				butchery
 dierenarts			veterinarian
 bakker				baker
 bakkerij			bakery	
@@ -1195,9 +1438,6 @@ slot				lock
 op slot				locked (bijvoeglijk naamwoord)
 woonkamer			living room
 slaapkamer			bedroom
-kast				closet
-kastje				cabinet, cupboard
-lade				drawer
 meubels			furniture
 bank				couch, sofa
 gordijn				curtain
@@ -1208,91 +1448,109 @@ onzeker			unsure, insecure (gevoel van onzekerheid), uncertain (twijfel)
 feit				fact
 kussen				pillow
 tapijt				carpet
-bezem				broom
 bruid				bride
 bruidegom			groom
+bezem				broom
 magnetron			microwave
 koelkast			refrigerator, friger, fridge
-diepvries, vriezer		freezer
+diepvries			freezer
 vaatwasser			dishwasher
 wasmachine			washing machine
 droger				dryer
 strijkijzer			flatiron
-stofzuiger			vacuum cleaner, hoover 
+stofzuiger			vacuum cleaner 
 was				loundry
 vaat				dishes
 gerecht				dish
+stof				dust
 stofdoek			duster
-vuilnis, afval			trash (banden), garbage (afval uit keuken/badkamer)
-afval				rubbish (Brits)
-vuilnisbak			trash can, garbage bin	
-vuilnisbak binnen		rubbish bin 
+rommel, rotzooi		mess
+vuilnis				trash (banden) 
+afval				garbage, rubbish (Brits)
+vuilnisbak			trash can, garbage bin, rubbish bin	
 bak				bin
-haren				hair
+haar, haren			hair
 voet, voeten			foot, feet
-huid				skin
+huid				skin 
+kin				chin
 gezicht				face
+tong				tongue
+oog, mond, hersenen		eye, mouth, brain
+wenkbrauw			eyebrow
+wimper				eyelash
+oor				ear
+keel				throat
+nek				neck
+neus				nose
 tand, tanden			tooth, teeth
 teen/tenen			toe/toes
 botten				bones
+boon, bonen			bean, beans
 schouder			shoulder
-buik				belly
 knie				knee
-maag				stomach, tummy (kindertaal)
+buik				belly
+maag				stomach
+pijn				pain, ache
+rugpijn				backpain
+buikpijn			bellyache
+maagpijn			stomach ache
+hoofdpijn			headache
 lever, nier, long		liver, kidney, lung
 kaak				jaw
 puistje				pimple
 traan 				tear
 ader, aderen			vein, veins
-kin				chin
 snor				moustache
 baard				beard
 zenuw				nerve
+nerveus, zenuwachtig		nervous
 bijgeloof			superstition
 verdacht (bijvoeglijk nw)	suspicious
 verdachte			suspect
 dollar				dollar, bucks (bok)
 duizend dollar			grand
-hoeveel keer			how many times
-zes keer drie			six times three	
-logisch, zintuig, gevoel		sense
-logisch				logical
+hoeveel keer, hoe vaak		how many times
+zes keer drie			six times three
+geluk				joy
+geniet ervan			enjoy it
+plezier				fun
+veel plezier			have fun
+aangenaam			pleasant
+plezierig, aangenaam, prettig	enjoyable
+grappig				funny
 vrolijk				jolly, cheerful (zichtbaar gelukkig)
-blij				happy, glad (vaak wordt de reden erbij gezegd)
-geluk				happiness
-heel goed			jolly good
-vriend				pal, friend
+blij, gelukkig			happy 
+blijdschap, geluk		happiness
+blij, gelukkig 			glad (vaak wordt de reden erbij gezegd)
+heel goed			very good, jolly good
+vriend				friend, pal
 maat				mate
 vent				fellow
-jongens			felles
-broer				bro
+jongens			boys, felles
+broer				brother, bro
 kerel				guy, dude
 collega				colleague
 onderhoud			maintenance
-netjes				tidy
 verliefd				in love
 verloofd			engaged
 verloofde			fiancé
 getrouwd			married 
-gescheiden 			divorced, separated
 huwelijk			marriage
 bruiloft				wedding
-pa en ma			dad and mom
-opa en oma			grandpa and grandma
-vader en moeder		father and mother
+vader, moeder			father, mother
 grootvader, grootmoeder	grandfather, grandmother
 ouders				parents
 grootouders			grandparents
-kleinzoon/kleindochter		grandson, granddaughter
-kleinkind(eren)			grandchild, grandchildren
+kleinzoon, kleindochter		grandson, granddaughter
+kleinkind, kleinkinderen	grandchild, grandchildren
 neef				cousin (zoon oom), nephew (zoon broer)
 nicht				cousin (dochter oom), niece (dochter broer)
 mannelijk en vrouwelijk	male and female
 stamboom			family tree
 stiefvader, stiefmoeder		stepfather, stepmother
+halfzus, halfbroer		half sister, half brother
 schoonzus			sister-in-law
 zwager				brother-in-law
-halfzus/halfbroer		half sister/half brother
 schoonvader, schoonmoeder	father-in-law, mother-in-law 
 schoonzoon, schoondochter	son-in-law, daughter-in-law
 winkel				shop (UK), store (VS)
@@ -1300,12 +1558,14 @@ winkelcentrum			shopping mall
 verkoop, uitverkoop		sale
 te koop				for sale	
 supermarkt			supermarket
-kleren/kleding			clothes/clothing
-kledingzaak			clothing store
+kleren, kleding			clothes, clothing
+handschoen			glove
+kledingzaak			clothing shop, clothing store
 vrouwenkleding		women’s clothing
 winkelwagen			shopping cart
 balie				counter
 kassa				checkout counter
+aanrecht			countertop
 korting				discount
 procent				percent
 paskamer			fitting room
@@ -1314,108 +1574,111 @@ warenhuis			department store
 magazijn, pakhuis		warehouse
 bon				receipt
 contant				cash
-pinpas/creditcard		debit card/credit card
+pinpas, creditcard		debit card, credit card
 letterlijk			literal, literally
-figuurlijk			figuratively
+figuurlijk			figurative, figuratively
 strak, schaars			tight
+netjes				tidy
 waarschuwing			warning
 schade				damage
 gewond				hurt (geestelijk),wounded (wondje),injured(lichamelijk letsel)
 wond				wound
 noodgeval			emergency
-ramp				disaster
-bezorgd			concerned (bezorgdheid tonen), worried (zorgen maken)
 verlegen			shy
 jaloers				jealous
-verrast				surprised
 koppig				stubborn
-saai				boring
-verveeld			bored
-voorzichtig			careful
-gevaar				danger
-gevaarlijk			dangerous
 schattig			cute
-raar				weird (verbonden met lot dat beïnvloedbaar is) , strange
-stom				stupid
-gek				crazy, silly (dwaas, verdient medelijden), mad (geestelijk gestoord)
-krankzinnig			lunatic
-boos				angry, mad
+raar				weird (verbonden met lot dat beïnvloedbaar is), strange
+dom, stom			stupid
+dwaas				fool, foolish, silly (verdient medelijden)
+gek				crazy
+boos				angry
+geestelijk gezond		sane
+geestelijke gezondheid		sanity
+gestoord, krankzinnig		mad, insane, lunatic
+krankzinnigheid		madness, insanity, lunacy
 slim				clever(vindingrijkheid), smart(intelligentie), intelligent
 verstandig			sensible (waarneembaar met zintuigen), wise
 ingewikkeld			complicated
 stout				naughty
-schitterend			splendid
-zwembroek			swimming trunks, swimsuit (korter model, vaak dames)
+zwembroek			swimming trunks, swimsuit (korter model)
 hoofdkantoor			headquarters (gebouw), main office (kamer)
 achtertuin			backyard
-stadhuis			city hall
-woonplaats			place of residence
 zitplaats			seat
+brand, vuur			fire
+brandweer			fire department
 brandweerman			fireman, firefighter (kan ook vrouw zijn)
 brandweerauto			fire truck
 brandblusser			fire extinguisher
 huurauto			rental car
 luisterboek			audiobook
 vogelhuis			birdhouse
-meer/meren			lake, lakes
-woestijn			desert
+vuurtoren			lighthouse
+meer, meren			lake, lakes
 steen, rots			stone, rock
 kanaal				canal (water), 
 kanaal, zender			chanal
 huisje				cottage
 pijl				arrow
 jammer				a pity
+zonde				sin
 inderdaad			indeed
-eet smakelijk			enioy your meal
-tot ziens			see you, so long, goodbye
+tot ziens			see you, goodbye
 groeten, groetjes		regards, greetings
-met vriendelijke groeten	kind regards 
-hoogachtend			yours sincerely (heel zakelijk en formeel)
-aangenaam			pleasant
+met vriendelijke groeten	kind regards
 vriendelijk			friendly, kind
+minachting			disregard
+van harte			sincere, sincerely
+van harte gefeliciteerd		sincere congratulations
+hoogachtend			yours sincerely (heel zakelijk en formeel)
 hoera				hurray
-veel plezier			have fun
-oprecht, van harte		sincere, sincerely
-kort, even			briefly
 eigenlijk			actually
 precies				exactly
-werkelijkheid			reality
-trouwens			by the way
+realiteit, werkelijkheid		reality
+relatief				relative
 van streek			upset
-ziek				sick, ill
+ziek				ill, sick
 ziekte				disease, illness, sickness
 ramp				disaster
+woestijn			desert
+toetje				dessert
+afstand				distance
+afstandsbediening		remote control
+op afstand, afgelegen		remote
 griep				flu
 koorts				fever
 gezondheid			health
-gezond				healthy
+gezond, gezonde		healthy
 de gezondheidszorg		healthcare
 verpleegkundige		nurse
-ongeluk			accident
-behandeling			treatment
-afspraak			appointment
 allergisch			allergic
+medicijn			medicine
 geneesmiddel			medication, drug	
 zalf				ointment
-toestand			condition
+conditie, staat, toestand	condition
+voorwaarde			condition
+in goede staat			in good condition
+welke voorwaarde		which condition
 rolstoel				wheelchair
 pleister				band aid (US), plaster (UK)
 verband			bandage
-wond				wound
 salade				salad
 frisdrank			soda, soft drink
+sap				juice
+maaltijd			meal
+eet smakelijk			enioy your meal
+boterham			sandwich
+rijst				rice
+kaas				cheese
+aardbei				strawberry
 pindakaas			peanut butter
-taart				cake, pie
+taart				pie, cake
+appeltaart			apple pie
 snoep				candy
 koekje				cookie
 gebak				pastry
 pannenkoek			pancake
 slagroom			whipped cream
-zoet				sweet
-zuur				sour
-bitter				bitter
-pittig				spicy
-hartig				savory
 citroen				lemon
 limoen				lime	
 peer				pear
@@ -1423,6 +1686,7 @@ druif, druiven			grape, grapes
 kers, kersen			cherry, cherries
 bes, bessen			berry, berries
 braam				blackberry
+framboos			raspberry
 noot 				nut
 rijp				ripe
 ui				onion
@@ -1430,61 +1694,61 @@ aardappel			potato
 champignon			mushroom
 bloemkool			cauliflower
 paprika				bell pepper
-boon, bonen			bean, beans
 worst				sausage
 rundvlees			beef
 biefstuk			steak
 knoflook			garlic
 gehaktbal			meatball
 gehaktbrood			meatloaf
-gehakt				ground meat, minced meat, mince
+gehakt				ground meat, minced meat
 spek				bacon
-kastje				cupboard
 vlucht				flight
 aankomst			arrival
 vertrek				departure
 bagage				luggage
-gids				guide
 vliegtuig			airplane
+vliegveld			airport
 vakantie			holiday (UK), vacation (US)
+schip				ship
 zeilboot				sailboat
 veerboot			ferry
 ambassade			embassy
-bezienswaardigheid		sight
 scheerapparaat			shaver
 scheermes			razor, razor blade 
 volwassene			adult
 bejaard				elderly
 bleek				pale
-helder				bright
 plafond				ceiling
 dienblad			tray
 sterfelijk, onsterfelijk		mortal, immortal
 eeuwig				eternal
-eeuwigheid			eternity
 voor eeuwig			eternally
-bad/badkuip			bath/bathtub
+eeuwigheid			eternity
+bad, badkuip			bath, bathtub
 badkamer			bathroom
-wc				toilet, bathroom
-wc				lavatory, restroom
+wc				toilet, bathroom, lavatory, restroom				
 bezet				occupied
 zwembad			pool, swimming pool
 douche				shower
-kraan				faucet, crane
+kraan				faucet
+hijskraan			crane
 handdoek			towel
 gootsteen			sink
 borstel				brush
 zeep				soap
 lippenstift			lipstick
-zakdoek			handkerchief (stof), tissue (papier)
-probleem, kwestie		issue
+zakdoek			tissue (papier), handkerchief (stof)
 emmer				bucket
 natuur				nature
-grond				soil
-vulkaan				volcano
+grond				ground, soil
 regenwoud			rainforest
 grot				cave
-kloof				gorge
+kloof				gorge 
+goor				gross 
+overstroming			flood
+vulkaan				volcano
+storm				storm
+orkaan				hurricane
 gletsjer				glacier
 heet				hot
 hitte				heat
@@ -1495,17 +1759,24 @@ brandstof			fuel
 milieu				environment
 ijs				ice, ice cream
 elektriciteit			electricity
-allergisch			allergic
 tram				tram
 rijbewijs			driver’s license
-vrachtwagen			lorry (UK), truck (US)
+vrachtwagen			truck (US), lorry (UK)
 automobilist, bestuurder	(car) driver, motorist
 bestuurdersstoel		driver’s seat
 bijrijdersstoel			passenger seat
 achterbank			back seat
+fietsen				to cycle, to bike
+fiets				bicycle, bike
+motorfiets			motorcycle
+motor				engine
+voertuig			vehicle
+tuig				rig
 fietser				cyclist, bicyclist
+motorrijder			biker
 stoep				sidewalk
 voetganger			pedestrian
+oversteekplaats voetgangers	pedestrian crossing
 fietspad			bike path
 wandelaar			walker (lage frequentie) , hiker (fanatieker)
 lifter				hitchhiker
@@ -1522,11 +1793,14 @@ kruispunt			intersection, crossing (weg doorkruist met zebrapad of iets anders)
 voorrang			right of way
 snelweg			highway
 weg				road
-haast, spoed			rush, hurry
+wegversperring			roadblock
+platform, perron		platform
+haast, spoed			hurry, rush
 tankstation			gas station
-spits				rush hour
+spits, spitsuur			rush hour
 richtingaanwijzer		turn signal
 post				mail
+brievenbus, postbus		mailbox
 gesprek			conversation
 bericht				message
 sms				tekst message
@@ -1535,7 +1809,7 @@ verdieping			floor
 trap				stairs, stairway
 balkon				balcony
 gang				hallway
-ingang				entrance fysieke ingang), entry (fysieke ingang, toegang, komst)
+ingang				entrance (fysieke ingang), entry (fysieke ingang, toegang, komst)
 kelder				basement, cellar (voor opslag wijn, enz)
 verwarming			heater (één ding), heating (meerdere dingen, zoals CV)
 radiator			radiator
@@ -1548,8 +1822,6 @@ oven				oven
 fornuis				stove
 hap				bite
 chocolade			chocolate
-toetje				dessert
-woestijn			desert
 kruid/kruiden			herb/herbs
 specerij/specerijen		spice/spices
 ingrediënt/ingrediënten	ingredient/ingredients
@@ -1559,13 +1831,14 @@ voorgerecht			starter (UK), appetizer (US)
 recept				recipe
 saus				sauce
 rauw				raw (niet gebakken), rare (licht gebakken)
+zeldzaam			rare
+zelden gebruikt			rarely used
 gaar				done
 kookboek			cookbook
+glas				glass
 kom				bowl
-aanrecht			countertop
 deksel				lid
-snijplank			cutting board
-bestek				utensils (keukengerei), cutlery (messen, vorken en lepels)
+bestek				cutlery (messen, vorken en lepels), utensils (keukengerei)
 bord, mes, vork, lepel		plate, knife, fork, spoon
 goud				gold
 zilver				silver
@@ -1580,39 +1853,39 @@ diamant			diamond (kleurloos of gele kleurtint)
 metaal, ijzer, staal		metal, iron, steel
 hout, beton, baksteen, klei	wood, concrete, brick, clay
 wol, katoen, zijde, leer, stof	wool, cotton, silk, leather, fabric
-karton				cardboard
 lijm, plakband			glue, tape
-krijt, krijtje, schoolbord	chalk, piece of chalk, blackboard
+karton				cardboard
+snijplank			cutting board
+schoolbord			blackboard
+kast				closet
+kastje				cabinet, cupboard
+krijt, krijtje			chalk, piece of chalk 
 materiaal			material
 onderwijs, opleiding		education
+klas				class
 les				class, lesson
+cijfer, klas, graad		grade
 toets				test
 oefening			practice, exercise
 huiswerk			homework
-opdracht			assignment, order, task
+opdracht			assignment, order
+taak, opdracht			task
 huiswerkopdracht		homework assignment
-cijfer, klas, graad		grade
-klas				class
 examen			exam
 kennis				knowledge
 schrift				notebook
 speeltuin			playground
 kleuterschool			kindergarten	
-basisschool			primary school (UK), elementary or grade school (US)
+basisschool			primary school (UK), elementary school (US)
 middelbare school		secondary school
-opvoeding			upbringing
 uitleg				explanation
 presentatie			presentation
 voorbereiding			preparation
-voorspelling			prediction, forecast
-weer				weather
-weersvoorspelling		weather forecast
-weerbericht			weather report	
 nat				wet
-storm				storm
 wolk				cloud
 bewolkt				cloudy
 vochtig				humid
+benauwd			stuffy
 zonnig				sunny
 sneeuw				snow
 hagel				hail
@@ -1625,37 +1898,37 @@ onweer				thunderstorm
 donderslag, verbaasd		thunderstruck
 bliksem				lightning
 blikseminslag			lightning strike
-orkaan				hurricane
-overstroming			flood
 woordenboek			dictionary
 vertaling			translation
 alinea				paragraph
 pagina				page
 hoofdstuk			chapter
-apparaat			device
 stekker				plug
 stopcontact			power outlet, socket (ook waar je een lamp indraait)
-knop				button
 luidspreker			speaker
 draadloos			wireless
 toetsenbord			keyboard
 laptop/computer		laptop, computer
 kabel				cable
-beeldscherm			screen
 bureau				desk
 handleiding (is een boekje)	manual
 gebruiksaanwijzing		instructions
 schroef				screw
 onderdeel			part, component (zelfstandig deel van groter ding)
+opponent, tegenstander	opponent
+experiment			experiment
 liniaal				ruler
+lade				drawer
 tekenaar			drawer
 tekening			drawing
 schilder				painter
-penseel, kwast			paintbrush
+schilderij			painting
 verf				paint
+penseel, kwast			paintbrush
 doek				canvas
 tentoonstelling			exhibition
-kaartje				ticket
+ticket, kaartje			ticket
+kaart				map
 portret				portrait
 schets				sketch
 beeldhouwer			sculptor
@@ -1663,34 +1936,37 @@ standbeeld			statue
 vrijheidsbeeld			statue of liberty
 vrijheid				freedom (ontstaat uit menselijkheid), liberty (politiek)
 vrede				peace
-voor de hand liggend		obvious
-vanzelfsprekend, duidelijk	obvious
-kennelijk, duidelijk		obviously (voor de hand liggend)
-blijkbaar			apparently, evidently
-schijnbaar			seemingly
+voor de hand liggend		obvious, obviously
+vanzelfsprekend, duidelijk	obvious, obviously
+kennelijk			obvious, obviously 
 gebeurtenis, evenement	event
-gelegenheid			occasion
+gelegenheid			occasion 
+laatste, vorige			last
+laatste, definitief, definitieve	final
 eindelijk			finally
 uiteindelijke/uiteindelijk	eventual (BN), eventually BW)
+vooral, speciaal, met name	especially
 driehoek			triangle
 vierkant			square
 cirkel				circle
+cyclus, kringloop		cycle
 vorm				shape
+in vorm				in shape
 gat				hole
-recht				straight
-kromme, gebogen		curved
 dun				thin
 mager				skinny
 dik				fat (bovenlichaam/ronde buik), thick (onderlichaam en trui e.d.)
 spier, gespierd			muscle, muscular
-breed				wide (fysiek), broad (figuurlijk)
-plat				flat
-smal				narrow
+boven				above, upstairs
+onder				under, beneath/ underneath (covered), below (same building, etc)
+beneden			downstairs
+omhoog, naar boven		up, upwards
+omlaag, naar beneden		down, downwards
+bodem, onderkant		bottom
 bovenkant			top, upside
 onderkant			bottom, underside (wat onder de bottom zit)
 voorkant			front
 achterkant			back
-overkant			other side
 achterstevoren			backwards
 terugspoelen			rewind
 binnenstebuiten		inside out
@@ -1703,20 +1979,20 @@ omroep				broadcaster
 aflevering			episode
 levering			delivery
 verzending			shipment
-uitnodiging			invitation
 samenvatting			summary
 achter elkaar			one after the other
 wachtwoord			password
 bestand			file
-bevestiging			confirmation
 universum			universe
 zonnestelsel			Solar System
 Melkweg			Milky Way
 sterrenstelsel			galaxy
 atmosfeer			atmosphere
 telescoop			telescope
+microscoop			microscope
 satelliet				satellite
 asteroïde			asteroid
+ruimte				space
 ruimteschip			spaceship
 aards				terrestrial
 buitenaards			extraterrestrial
@@ -1724,113 +2000,96 @@ buitenaards wezen		alien
 hemels				heavenly, celestial
 stedelijk			urban
 buitenwijk			suburbia
-baan				orbit
 raket				rocket
 intussen, in de tussentijd	meanwhile (vaak bijwoord), meantime (vaak Zelfst. Nw)
-schande			shame, disgrace
-schandalig			disgraceful
-geloofwaardig			credible
-ongelooflijk			incredible
-zonsondergang			sunset
+voorlopig			for now (nu nog wel), for the time being (zolang niets veranderd)
+temporiseren			to temporize
+tijdelijk				temporary (BNW), temporarily (BW)
 zonsopkomst			sunrise
+zonsondergang			sunset
 noord, oost, zuid, west		north, east, south, west
 ten westen, enz		west of, enz
 naar het westen, enz		to the west, enz
-noordelijk, oostelijk		northern, eastern
-zuidelijk, westelijk		southern, western
-noordelijke, oostelijke		northerly, easterly
-zuidelijke, westelijke		southerly, westerly
+noordelijke, oostelijke		northern, eastern (BN)
+zuidelijke, westelijke		southern, western (BN)
+noordelijk, oostelijk		northerly, easterly (bijwoord)
+zuidelijk, westelijk		southerly, westerly (bijwoord)
 halfrond			hemisphere
-hoofdstad			capital
 dialect				dialect
-vanzelf, automatisch		automatically (BW)
-automatische			automatic (bijv. nw)
-aan de andere kant		on the other hand
-voorlopig			for now (nu nog wel), for the time being (zolang niets veranderd)
-tijdelijk				temporary (BNW), temporarily (BW)
-temporiseren			to temporize
-stiekem			secretly
+automatische			automatic (BN)
+vanzelf, automatisch		automatically (bijwoord)
 geheim				secret
-voldoende			sufficient(ly), enough
-pas op 				beware of, watch out
-vervelende			annoying
-gewoonte			habit
+stiekem			secretly
+genoeg				enough
+voldoende			sufficient(ly)
 verfrissend			refreshing
 het leven			life
-wonen				live
 de dood			the death
 levende	 spin			living spider
-verrassend nieuws		surprising news
 zanger, zangeres		singer
-publiek				audience, public
+publiek				public, audience
 acteur, actrice			actor, actress
 toeschouwer			spectator
 podium, stadium, fase		stage
 literatuur			literature
 roman				novel
 mode				fashion
-afbeelding			image
 foto				photo, picture
+afbeelding			image
 figuur				figure
 grafiek				graph (diagram), graphics (ontwerptekening)
 gedicht				poem
 middenvouw			center fold
 keuze				option, choice (Options are the things and choices are our decision)
-zeldzaam			rare
 mogelijk			possible, possibly
-onmogelijk			impossible
+onmogelijk			impossible, impossibly
 mogelijkheid			possibility
-kans				chance, opportunity
-verandering			change
-oplossing			solution
-geduldig			patient (BN)
-het geduld			the patience (ZN)
-verbeelding			imagination
+vermogen, kundigheid		ability
+gedachtenbeheersing		thought control
 gedachte/gedachten		thought (een vorm die in de geest (=mind) is gecreëerd)/thoughts
 gedachten			mind (het vermogen tot rationeel denken)
 verstand			mind (verm. tot rationeel denken), sense (hoe neem je iets waar)
 gezond verstand		common sense
-humor				humor, sense of humor
-geheugen			memory
+humor				humor
+gevoel voor humor		sense of humor
+logisch, zin(tuig), gevoel	sense
+logisch				logical
 motivatie			motivation
 bewuste keuze			deliberate choice
 bewust gekozen		deliberately chosen
 bewust van het gevaar		aware of the danger
-eigenschap			quality, characteristic, trait (persoonseigenschap)
-manier				way, manner
+pas op 				beware of, watch out
+gevaar				danger
+gevaarlijk			dangerous
+in gevaar brengen		jeopardize
+kwetsbaar, onkwetsbaar	vulnerable, invulnerable
+manier				manner, way
 zelfbeheersing			self-control
-eerlijk				honest
-eerlijkheid			honesty
-mening				opinion
 argument			argument
+mening				opinion
 standpunt			point of view, position
+positie				position
 recensie			review
-onredelijk			unreasonable
 kritiek				criticism
 kritisch				critical (ZN), critically (BW)
 oordeel				judgment, verdict
 genot, verrukking, vreugde	delight
 opmerkelijk, merkwaardig	remarkable
 onopmerkelijk/onmerkwaardig	unremarkable
-begrepen			copy that
-moeilijkheid, moeite		trouble, difficulty
-verwacht, onverwacht		expected, unexpected			
-verwachting			expectation
-bestelling			order
-hopelijk			hopefully
+hoopvol, hopelijk		hopeful, hopefully
 hopeloos			hopeless (BN), hopelessly (BW)
 sprakeloos			speechless
+hulpeloos			helpless
+ademloos			breathless
 stapel				pile
 eindig				finite
 eindeloos			endless, infinite
-aanmelding, toepassing	application
-aanmelding, ingang		entry
-toegang			access	
-sollicitatie			apply
 lezing, college			lecture
 universiteit			university, college
 college				college
 programma			program
+progressie, voortgang		progress
+proces 				process, trial (rechtbank)
 rechter, advocaat		judge, lawyer
 scriptie, proefschrift		thesis
 instituut			institute
@@ -1839,13 +2098,10 @@ vergif				poison
 giftig, giftige			poisonous
 duizelig				dizzy
 dodelijk			deadly, lethal
-pijn				pain, ache
-buikpijn			bellyache, stomach ache
-hoofdpijn			headache
 opgezwollen			swollen
 apotheek			pharmacy
 apotheker			pharmacist
-huisarts			family doctor, general practitioner
+huisarts			family doctor
 zwanger			pregnant
 tandarts			dentist
 drogisterij			drugstore
@@ -1856,42 +2112,36 @@ depressief			depressed, blue
 dronken			drunk
 kaal				bald
 blond				blonde
-veter				lace
 prachtig			gorgeous
 magnifiek			magnificent
 knap (uiterlijk)			handsome (man), good looking (man en vrouw)
-rits, knoop			zipper, button
+rits				zipper
+knop, knoop			button
+bodem				bottom
 zonnebril			sunglasses
 koptelefoon			headphones
 oortjes				earphones, earbuds
-wimper				eyelash
-wenkbrauw			eyebrow
 armband			bracelet
 ketting				chain
 ring				ring
 litteken				scar
 tatoeage			tattoo
 moedervlek			birthmark
-handschoen			glove
-muts				knitted cap
-want				mitten
-sieraad, juweel			jewel, jewelry(meervoud)
-experiment			experiment
+gebreide muts			knitted cap
+sieraad, juweel			jewel, jewelry (meervoud)
 theorie				theory
-met succes			successfully
+succesvol, met succes		successful, successfully
 glad, vlot			smooth
 gladjanus			smooth operator
 concept				concept
 conclusie			conclusion
 armoede			poverty
-welzijn, welvaart		welfare, prosperity
+welzijn				welfare
+welvaart			prosperity
 chaos				chaos
-vooruitgang, voortgang	progress
-inwoner			resident, citizen
-burger				citizen, civilian
+inwoner			citizen
+burger				civilian, citizen
 beschaving			civilization
-handtekening			signature
-ontwikkeling			development
 verzekering			insurance
 zorgverzekering		health insurance	
 klant				customer
@@ -1901,25 +2151,18 @@ slaapliedje			lullaby
 risico				risk
 boekhouding			accounting
 zakenreis			business trip
-relatie				relationship
+relatie				relation, relationship (koppels, familie dus kleiner dan relation)
 romantisch			romantic
-passie				passion
-aantrekkelijk			attractive
-liefdesverdriet			love sickness, heartbreak
+attractief, aantrekkelijk		attractive
+liefdesverdriet			heartbreak
 gebroken hart			broken heart
-teleurstelling			disappointment			
-teleurgesteld			disappointed
-geïrriteerd			irritated
-opgewonden			excited
-ongerust			anxious
-kwetsbaar, onkwetsbaar	vulnerable, invulnerable
+hartaanval			heart attack
+angstig, ongerust		anxious
 nieuwsgierig			curious
 gezichtsuitdrukking		facial expression
-zenuwachtig			nervous
-hulpeloos			helpless
-ademloos			breathless
-tevreden, tevredenheid		satisfied, satisfaction
+tevreden			satisfied 
 ontevreden			dissatisfied
+tevredenheid			satisfaction
 gezellig, knus			cozy
 regering			government
 parlement			parliament
@@ -1928,42 +2171,26 @@ staat				state
 koninkrijk			kingdom
 voorzitter			chairman
 verplicht			mandatory, obligatory
-schuldig			guilty
-onschuldig			innocent
-rechtvaardigheid		justice
 snelheid			speed, velocity
-afstand				distance
 massa				mass
 lichtsnelheid			speed of light
-microscoop			microscope
 chemicaliën			chemicals
 energie				energy
-waar				true 
-waarheid			truth
-echt, werkelijk			truly
 oppervlakte			surface
 klimaat				climate
 magneet			magnet
 actie, daad, handeling		action
 reactie				reaction
-bekentenis			confession
 ellende				misery
 mysterie			mystery
+ziekenhuis			hospital
 gastvrijheid			hospitality
-opwinding			excitement
-medelijden			compassion
-geen genade			no mercy
-verbetering			improvement
 wijsheid			wisdom
 symbool			symbol
-gestrest			stressed, stressed out
 winst				profit
 verlies				loss
 investering			investment
-lening				loan
 inkomen			income
-fabrikant			manufacturer
-uitgave(n)			expense(s)
 failliet				bankrupt
 campagne			campaign
 strategie			strategy
@@ -1972,8 +2199,8 @@ factuur				invoice
 aflossing			redemption
 regel				rule
 kandidaat			candidate
-besluit				decision
 vijand				enemy
+veilig				safe
 veiligheid			safety, security
 leger				army
 wapen				weapon
@@ -1986,15 +2213,12 @@ christen			christian
 engel				angel
 begrafenis			funeral
 heilig				holy, sacred
-verboden			forbidden
 levensbeschouwing		outlook on life
 kerk				church
 magie				magic
-zorgeloos gefluister		careless whisper
-menigte			crowd
 kroon				crown
+menigte			crowd
 klaar voor de start, af		ready Set Go
-zaklamp			flashlight
 ridder				knight
 lid				member
 keizer, keizerrijk		emperor, empire
@@ -2002,7 +2226,6 @@ oudejaarsavond		New Year’s Eve
 Kerstmis, Pasen		Christmas, Easter
 Pinksteren, Hemelvaartsdag	Pentecost, Ascension Day
 traditie				tradition
-vuurtoren			lighthouse
 premiejager			bounty hunter
 huurmoordenaar		sicario
 sluipschutter			sniper
@@ -2010,14 +2233,15 @@ moe				tired
 routebeschrijving		itinerary
 klootzak			scumbag
 waardigheid			dignity
-per ongeluk, onopzettelijk	accidental, accidentally
-toevallig			accidental, accidentally
-isolatie, isolering		isolation (wie/wat is geïsoleerd), insulation (waarvan geïsoleerd)
-geïsoleerd			isolated, insulated
+isolement			isolation (wie/wat is geïsoleerd)
+isolatie				insulation (waarvan geïsoleerd)
 isolatie zoals piepschuim	insulation
+geïsoleerd			isolated, insulated
 lapje				patch
 kaskraker			blockbuster
 onderhandelaar		negotiator
+aanklager			prosecutor
+vrijwilliger			volunteer
 egoïstisch			selfish
 roerei				scrambled eggs
 gekookt ei			boiled egg
@@ -2038,20 +2262,16 @@ oord,heiligdom,reservaat,park	sanctuary
 sanctie				sanction
 met betrekking tot sanctie	sanctionary
 tovenaar			sorcerer, wizard
-stadsdeel			borough 
-district 				district
 garantie			guarantee
 drang				urge
 puin, brokstukken		debris, rubble
 vonk				spark
 panisch				frantic
-tegenslag			setback
 druk, bezig			busy
 kofferbak			trunk
 motorkap			hood (VS), bonnet (UK)
 lieveheersbeestje		ladybug
 fakkel				torch
-aanklager			prosecutor
 applaus				applause
 machtig, almachtig		mighty, almighty
 voor- en nadelen		pros and cons
@@ -2063,17 +2283,9 @@ diepgang, onderdompeling	immersion
 hertog				duke
 agenda, kalender		agenda, calendar
 schema,rooster,dienstregeling	schedule (terugkerende gebeurtenis), timetable (enkelvoudige)
-tevergeefs, nutteloos		in vain
 barricade			barricade
 versperring			barrage
-afstandsbediening		remote control
-op afstand, afgelegen		remote
 thermostaat			thermostat
-benauwd			stuffy
-kalmte				composure
-weerstaanbaar			resistible
-onweerstaanbaar		irresistible
-vermogen, kundigheid		ability
 ontvangst, receptie		reception
 aanvullend(e), bijkomend(e) 	additional
 extra				additional
@@ -2081,7 +2293,49 @@ extra tijd			additional time
 nachtegaal			nightingale
 vos				fox
 sluw				foxy
-geestelijke gezondheid		sanity
 buitenlands			foreign
 buitenlander			foreigner
 voorhamer			sledgehammer
+verbazing			astonishment
+betoverd, verblind zijn		bedazzled
+oogverblindend			dazzling
+autoriteit			authority
+springlevend			alive and kicking
+bushalte			bus stop
+sleutel				key
+rapport, verslag		report
+communicatie			communication
+weegschaal			scale
+richting				direction
+de marine			the navy
+de luchtmacht			the Air Force
+activiteit			activity
+service				service
+veruit, verreweg		by far
+decennium			decade
+doos				box
+mand				basket
+strand				beach
+horizon				horizon
+feest				party
+spiegel				mirrow
+vallei				valley
+buurman, buurvrouw		neighbor
+buren				neighbors
+buurt				neighborhood
+gebied, ruimte			area
+oceaan				ocean
+tas				bag
+hoek				corner
+rand				edge
+grens				border
+limiet, grens			limit
+flm				film, movie
+slecht humeur			bad mood
+visueel, visuele			visual
+symptoom, symptomen	symptom, sympoms
+welkom				welcome
+document			document
+flits				flash
+rookflits			flash of smoke
+zaklamp			flashlight
