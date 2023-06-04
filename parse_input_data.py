@@ -18,9 +18,11 @@ def replace_unicode(lines: list[str]) -> list[str]:
     duplicates = 0
     for line in lines:
         if lines.count(line) != 1:
-            duplicates += 1
+            duplicates += 1 / lines.count(line)
             # print(f"{lines.count(line)}: {line.strip()}")
-    print(f"found {duplicates} duplicates")
+    print(f"removing {int(duplicates)} duplicates from list")
+    # removing the duplicates
+    lines = list(dict.fromkeys(lines))
 
     return lines
 
@@ -33,7 +35,7 @@ def parse_words(course):
     # parse the words adding vocabulary dictionaries to the parsed_words list
     parsed_words = []
     for index, word in enumerate(words):
-        split_word = word.strip().split("\t")
+        split_word = [entry.strip() for entry in word.strip().split("\t")]
         assert len(split_word) >= 2
         assert len(split_word[0].strip()) >= 1
         assert len(split_word[-1].strip()) >= 1
@@ -60,20 +62,29 @@ def parse_words(course):
 def parse_sentences(course):
     # open the raw sentences to parse from interlaced file
     with open("sentences.intl") as f:
-        sentences = replace_unicode(f.readlines())
+        interlaced_sentences = f.readlines()
 
     # parse the interlaced sentences (nl \n en \n nl \n en)
-    # adding to vocabulary dictionaries to the parsed_sentences list
-    nl_sentences = sentences[0::2]
-    en_sentences = sentences[1::2]
+    nl_sentences = interlaced_sentences[0::2]
+    en_sentences = interlaced_sentences[1::2]
     assert len(nl_sentences) == len(en_sentences)
+    sentences = [
+        f"{nl_sentences[i].strip()}\n{en_sentences[i].strip()}"
+        for i in range(len(nl_sentences))
+    ]
+    sentences = replace_unicode(sentences)
+
+    # adding to vocabulary dictionaries to the parsed_sentences list
     parsed_sentences = []
-    for index in range(len(nl_sentences)):
+    for index, sentence in enumerate(sentences):
+        nl_sentence, en_sentence = [s.strip() for s in sentence.split("\n")]
+        assert len(nl_sentence) >= 0
+        assert len(en_sentence) >= 0
         parsed_sentence = {
             "id": f"{course}-{index+1}",  # 1-based index instead of 0-based
             "course": f"{course}",
-            "dutch": nl_sentences[index].strip(),
-            "english": en_sentences[index].strip(),
+            "dutch": nl_sentence,
+            "english": en_sentence,
         }
         parsed_sentences.append(parsed_sentence)
 
