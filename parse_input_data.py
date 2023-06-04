@@ -36,6 +36,8 @@ def parse_words(course):
     parsed_words = []
     for index, word in enumerate(words):
         split_word = [entry.strip() for entry in word.strip().split("\t")]
+        words = [word for word in split_word if word]
+        assert len(words) == 2, f"additional tabs in {split_word}!"
         assert len(split_word) >= 2
         assert len(split_word[0].strip()) >= 1
         assert len(split_word[-1].strip()) >= 1
